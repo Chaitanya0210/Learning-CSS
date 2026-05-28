@@ -1,0 +1,33 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1  {
+    color:red;
+}
+
+p   {
+    color:purple;
+}
+
+button {
+    color:hotpink;
+    background-color: lightgreen;
+}
+
+body {
+    background-color:lightblue;
+}
+
+
+
+#id_selector1 { 
+    color:orange;
+}
+#id_selector2 {
+    color:white;
+}
+
+.class_selector {
+    color:black;
+    font-weight: bold;
+}
