@@ -146,3 +146,49 @@ body {
     width: 100px;
     border: 2px solid black;
 }
+
+#lovenature{
+    height: 300px;
+    width: 300px;
+    background-image: url("nature.jpeg");
+    background-size: cover;
+    border: 2px solid black;
+    position: fixed;
+    right: 0;
+    top: 10px;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    left: 50px;
+    top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#container{
+    width: 800px;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#box1{
+    background-color: violet;
+}
+#box2{
+    background-color: indigo;
+}
+#box3{
+    background-color: blue;
+}
+#box4{
+    background-color: green;
+}
+#box5{
+    background-color: yellow;
+}
